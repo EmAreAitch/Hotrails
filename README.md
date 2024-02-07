@@ -1,24 +1,7 @@
-# README
+# Quote Editor using Hotwired Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here I built an quote editor that support adding list of items as per dates that helps one for management of their finances
 
-Things you may want to cover:
+I built this following the [Hotrails.dev](https://www.hotrails.dev/) a great tutorial for practicing and learning Hotwired.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It really helped me to get a practical understanding of Turbo.
